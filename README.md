@@ -18,7 +18,7 @@ Desde então, houve uma relativa tendência de queda até fevereiro de 2021.\
 linear no número de clientes ativos registrados em cada início de mês.
 Entre junho de 2020 e fevereiro de 2021, o número de novos cadastros permaneceu 
 majoritariamente abaixo de 160. Observando os dados de maneira trimestral, 
-é possível notar que após o 2º trimestre de 2020, o número de novos cadastros vem caindo.\\
+é possível notar que após o 2º trimestre de 2020, o número de novos cadastros vem caindo.\
 --- Grafico ----
 
 Ao analisar o gráfico de distribuição de assinaturas por região, é possível 
@@ -27,7 +27,7 @@ Além disso, ao comparar com o gráfico de novos cadastros de maneira trimestral
 que após o 2º trimestre de 2020, o número de cadastros na região Norte vem caindo, 
 sendo o 4º trimestre aquele que registrou o menor número de cadastros em todo o período observado. 
 É possível observar no gráfico que as regiões Sul e Sudeste também apresentaram uma tendência 
-de queda no número de novos cadastros, seguindo a mesma tendência das regiões Norte e Nordeste.
+de queda no número de novos cadastros, seguindo a mesma tendência das regiões Norte e Nordeste.\
 --- Grafico ----
 
 Entre os canais que convertem mais assinaturas, destacam-se o Organic Search e o Direct. 
@@ -35,5 +35,5 @@ No entanto, é preocupante notar que, a partir de dezembro de 2020, esses canais
 juntamente com o Telegram/WhatsApp, vêm apresentando uma tendência constante de queda 
 na conversão de novas assinaturas. Essa queda pode indicar que as estratégias de marketing e a 
 oferta de serviços não estão mais atraindo o público-alvo de forma eficiente, o que pode estar
-contribuindo para o aumento do churn.
+contribuindo para o aumento do churn.\
 --- Grafico ----
